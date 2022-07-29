@@ -1,2 +1,2 @@
-# c-programming
-Some random C-programming codes
+# C-Programming
+Some basic C-programming codes
